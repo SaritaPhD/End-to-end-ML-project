@@ -17,22 +17,15 @@ math score: Student's score in math
 reading score: Student's score in reading
 writing score: Student's score in writing
 Project Workflow
-Understanding the Problem Statement
+Understanding the Problem Statement (Business problem and data understanding)
 Data Collection
 Data Cleaning and Preprocessing
 Exploratory Data Analysis
 Model Training
 Model Selection
-Getting Started
+Model Deployment
 
-To run this project on your local machine, follow these steps:
-
-Clone the repository: git clone <repository-url>
-Install the required dependencies: pip install -r requirements.txt
-Download the dataset from the provided link and place it in the data directory.
 
 Conclusion
 Through this project, we gain insights into how student performance is influenced by different factors. By understanding these relationships, we can identify key factors that contribute to improved student performance and make informed decisions to support student learning and success.
-
-If you have any questions or need further information, feel free to contact the project contributors.
 
