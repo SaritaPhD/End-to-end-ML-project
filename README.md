@@ -1,4 +1,4 @@
-## End to End MAchine Learning Project - Student Performance Indicator
+## End to End Machine Learning Project (Student Performance Indicator) with deployment using AWS
 - This project aims to understand how student performance, measured by test scores, is affected by various variables such as gender, ethnicity, parental level of education, lunch, and test preparation course.
 
 - Project Overview
