@@ -1,5 +1,5 @@
 ## End to End Machine Learning Project (Student Performance Indicator) with deployment using AWS
-- This project aims to understand how student performance, measured by test scores, is affected by various variables such as gender, ethnicity, parental level of education, lunch, and test preparation course.
+- This project aims to understand how student performance, measured by test scores, is affected by various variables such as gender, ethnicity, parental level of education, lunch, and test preparation course.  
 
 - Project Overview
 The project follows the standard life cycle of a machine learning project, including data collection, data preprocessing, exploratory data analysis, model training, and model selection.
